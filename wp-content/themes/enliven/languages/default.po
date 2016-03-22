@@ -1,0 +1,997 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enliven.1.1.2\n"
+"POT-Creation-Date: 2016-03-19 15:47+0530\n"
+"PO-Revision-Date: 2016-03-19 15:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_attr_e;esc_html__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:38 comments.php:60
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:63
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:64
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:50
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:50
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:52
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:49
+msgid "Social Media Menu"
+msgstr ""
+
+#: functions.php:106
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:116
+msgid "Business Template."
+msgstr ""
+
+#: functions.php:126
+msgid "Left Footer."
+msgstr ""
+
+#: functions.php:128
+msgid "Left Footer Widget Area"
+msgstr ""
+
+#: functions.php:136
+msgid "Mid Footer."
+msgstr ""
+
+#: functions.php:138
+msgid "Middle Footer Widget Area"
+msgstr ""
+
+#: functions.php:146
+msgid "Right Footer."
+msgstr ""
+
+#: functions.php:148
+msgid "Right Footer Widget Area"
+msgstr ""
+
+#: functions.php:205 functions.php:211
+msgid "on"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3021
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:820
+#: inc/class-tgm-plugin-activation.php:3430
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:927
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:927
+#: inc/class-tgm-plugin-activation.php:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1873
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2159
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2181
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2207
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2227
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2363
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2429
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2430
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2434
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2435
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2492
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2562
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2601
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2604
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2780
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3362
+#: inc/class-tgm-plugin-activation.php:3368
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3362
+#: inc/class-tgm-plugin-activation.php:3368
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:33
+#, php-format
+msgid "Copyright %s. All rights reserved."
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Footer copyright text"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid ""
+"Copyright or other text to be displayed in the site footer. HTML allowed."
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid ""
+"Upload a logo for your website. Recommended height for your logo is 120px."
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Display site title / logo."
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Choose your preferred option."
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Display site title and description only."
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Display site logo image only."
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Display both site title and logo image."
+msgstr ""
+
+#: inc/customizer.php:128 inc/customizer.php:192
+msgid "Display none"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid "Use this panel to set your slider settings."
+msgstr ""
+
+#: inc/customizer.php:150
+msgid "Slider Settings."
+msgstr ""
+
+#: inc/customizer.php:153
+msgid ""
+"Slider should be activated from <b>Front Page Settings</b> or <b>Blog "
+"Settings</b> in order to display the slider on front page or blog posts "
+"listing page."
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Display page title as slide title."
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Select what to display as slide content."
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Display page excerpt."
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Display all page content."
+msgstr ""
+
+#: inc/customizer.php:202
+#, php-format
+msgid "Slide %d."
+msgstr ""
+
+#: inc/customizer.php:205
+msgid ""
+"Featured image of the selected page will be displayed as the slide image."
+msgstr ""
+
+#: inc/customizer.php:221
+#, php-format
+msgid "Select a page for slide %d."
+msgstr ""
+
+#: inc/customizer.php:241
+#, php-format
+msgid "Slide %d first button text."
+msgstr ""
+
+#: inc/customizer.php:261
+#, php-format
+msgid "Slide %d first button url."
+msgstr ""
+
+#: inc/customizer.php:281
+#, php-format
+msgid "Slide %d second button text."
+msgstr ""
+
+#: inc/customizer.php:301
+#, php-format
+msgid "Slide %d second button url."
+msgstr ""
+
+#: inc/customizer.php:318
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Use this panel to set your header area settings"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "Activate slider."
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Activate slider on blog."
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:400
+msgid "Blog title"
+msgstr ""
+
+#: inc/customizer.php:410
+msgid "Latest Articles."
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Blog secondary title"
+msgstr ""
+
+#: inc/customizer.php:434
+msgid "Blog Header Image"
+msgstr ""
+
+#: inc/customizer.php:446
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/customizer.php:448
+msgid "This section settings is only for portfolio archive page."
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Portfolio"
+msgstr ""
+
+#: inc/customizer.php:463
+msgid "Portfolio archive title"
+msgstr ""
+
+#: inc/customizer.php:472
+msgid "What we have done so far."
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Portfolio archive secondary title"
+msgstr ""
+
+#: inc/customizer.php:497
+msgid "Portfolio archive description."
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Portfolio Header Image"
+msgstr ""
+
+#: inc/customizer.php:525
+msgid "Testimonial Settings"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "This section settings is only for testimonial archive page."
+msgstr ""
+
+#: inc/customizer.php:534
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Testimonial archive title"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "What others say about us?"
+msgstr ""
+
+#: inc/customizer.php:559
+msgid "Testimonial archive secondary title"
+msgstr ""
+
+#: inc/customizer.php:576
+msgid "Testimonial archive description."
+msgstr ""
+
+#: inc/customizer.php:593
+msgid "Testimonial Header Image"
+msgstr ""
+
+#: inc/customizer.php:610
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:625
+msgid "Select the main layout for site."
+msgstr ""
+
+#: inc/customizer.php:630
+msgid "Full width layout"
+msgstr ""
+
+#: inc/customizer.php:631
+msgid "Boxed layout - 1240px"
+msgstr ""
+
+#: inc/customizer.php:647
+msgid "Default sidebar position."
+msgstr ""
+
+#: inc/customizer.php:652
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:653
+msgid "Right"
+msgstr ""
+
+#: inc/extras.php:65
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/slider.php:80
+msgid "Edit slide"
+msgstr ""
+
+#: inc/template-tags.php:64 inc/template-tags.php:93
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:79 inc/template-tags.php:85
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:81
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:93
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:97 page-templates/portfolio.php:26
+#: template-parts/content-grid.php:33 template-parts/content-page.php:23
+#: template-parts/content-testimonial-single.php:22
+#: template-parts/content-testimonial.php:22
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:118
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:122
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:124
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:146
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:150
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: inc/template-tags.php:152
+msgid "Archives"
+msgstr ""
+
+#: inc/theme-info.php:40
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info.php:44
+msgid "Theme Setup Guide"
+msgstr ""
+
+#: inc/theme-info.php:48
+msgid "Customize Site"
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:14
+msgid "Enliven: Icon Blocks"
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:15
+msgid ""
+"Adds icon boxes with descriptions to your site. Please use this widget only "
+"for \"Business Template\" widget area."
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:123
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:129
+msgid "Description"
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:133
+msgid ""
+"<b>Note:</b><br />Give the name of the font awesome icon to the Font Awesome "
+"icon input field. You can find icon names from the readme.txt file <br /> "
+"eg: fa-paper-plane"
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:144
+msgid "Font Icon"
+msgstr ""
+
+#: inc/widgets/blocks-widget.php:149 inc/widgets/call-to-action-widget.php:92
+msgid "Select Page"
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:14
+msgid "Enliven: Featured Blog Posts"
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:15
+msgid "Adds recent blog posts to the front page."
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:134 inc/widgets/clients-widget.php:88
+#: inc/widgets/featured-pages-widget.php:145
+#: inc/widgets/portfolio-widget.php:158 inc/widgets/testimonial-widget.php:148
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:141
+#: inc/widgets/featured-pages-widget.php:152
+#: inc/widgets/portfolio-widget.php:166 inc/widgets/testimonial-widget.php:155
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:145
+msgid "Select a post category"
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:152
+#: inc/widgets/featured-pages-widget.php:159
+#: inc/widgets/portfolio-widget.php:187 inc/widgets/testimonial-widget.php:170
+msgid "View all text:"
+msgstr ""
+
+#: inc/widgets/blog-posts-widget.php:159
+msgid "View all link: This should be the url for blog posts listing page."
+msgstr ""
+
+#: inc/widgets/call-to-action-widget.php:14
+msgid "Enliven: Call to Action"
+msgstr ""
+
+#: inc/widgets/call-to-action-widget.php:15
+msgid ""
+"Adds a call to action to the business homepage. Please use this widget only "
+"for \"Business Template\" widget area."
+msgstr ""
+
+#: inc/widgets/call-to-action-widget.php:99
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/call-to-action-widget.php:106
+msgid "Button Url:"
+msgstr ""
+
+#: inc/widgets/clients-widget.php:14
+msgid "Enliven: Clients"
+msgstr ""
+
+#: inc/widgets/clients-widget.php:15
+msgid ""
+"A widget to display client logos or any kind of images. Please use this "
+"widget only for \"Business Template\" widget area."
+msgstr ""
+
+#: inc/widgets/clients-widget.php:96
+msgid "Convert images to black and white."
+msgstr ""
+
+#: inc/widgets/clients-widget.php:103
+#, php-format
+msgid "Image %d."
+msgstr ""
+
+#: inc/widgets/clients-widget.php:111
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/clients-widget.php:116
+#, php-format
+msgid "Image link %d."
+msgstr ""
+
+#: inc/widgets/featured-pages-widget.php:14
+msgid "Enliven: Featured Pages"
+msgstr ""
+
+#: inc/widgets/featured-pages-widget.php:15
+msgid ""
+"A widget that adds pages with featured images to the front page. Please use "
+"this widget only for \"Business Template\" widget area."
+msgstr ""
+
+#: inc/widgets/featured-pages-widget.php:166
+msgid "View all link:"
+msgstr ""
+
+#: inc/widgets/featured-pages-widget.php:174
+msgid "Display page titles."
+msgstr ""
+
+#: inc/widgets/featured-pages-widget.php:181
+msgid "Display page excerpts."
+msgstr ""
+
+#: inc/widgets/featured-pages-widget.php:187
+#, php-format
+msgid "Featured page %d."
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:16
+msgid "Enliven: Portfolio"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:17
+msgid ""
+"Adds a filterble portfolio section to the homepage. Please use this widget "
+"only for \"Business Template\" widget area."
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:120 page-templates/portfolio.php:74
+msgid "No Projects Found"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:127 inc/widgets/testimonial-widget.php:118
+#: page-templates/portfolio.php:86
+#, php-format
+msgid ""
+"Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:174
+msgid "Number of portfolio items:"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:179
+msgid "Select a portfolio category"
+msgstr ""
+
+#: inc/widgets/portfolio-widget.php:195
+msgid ""
+"View all link ( Normally this should be http://www.yoursite.com/portfolio/ ):"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:15
+msgid "Enliven: Testimonial"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:16
+msgid ""
+"Adds a testimonial section to the front page. Please use this widget only "
+"for \"Business Template\" widget area."
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:104
+msgid "No Testimonials Found"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:145
+msgid "New title"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:162
+msgid "Number of testimonials to display:"
+msgstr ""
+
+#: inc/widgets/testimonial-widget.php:178
+msgid ""
+"View all link ( Normally this should be http://www.yoursite.com/"
+"testimonial/ ):"
+msgstr ""
+
+#: page-templates/portfolio.php:20 template-parts/content-page.php:16
+#: template-parts/content-portfolio-single.php:23
+#: template-parts/content-search.php:40 template-parts/content-single.php:29
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-grid.php:13
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

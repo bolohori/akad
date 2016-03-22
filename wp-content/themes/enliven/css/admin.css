@@ -1,0 +1,151 @@
+/* Blocks widget boxes */
+.enl-drcn {
+  margin-bottom: 20px;
+}
+
+.enl-drcn-head {
+  line-height: 40px;
+  padding: 0 15px;
+  background: #f5f5f5;
+  cursor: pointer;
+}
+
+.enl-drcn-head a {
+  text-decoration: none;
+  width: 100%;
+}
+
+.enl-drcn-cont {
+  display: none;
+  margin: 0 10px;
+}
+
+.enl-drcn-box {
+  border: 1px solid #ccc;
+  margin: 5px 0;
+}
+
+span.drcn-plus {
+  float: right;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+span.drcn-minus {
+  float: right;
+  font-size: 18px;
+  font-weight: 600;
+  display: none;
+}
+
+.media-picker-remove {
+  position: absolute;
+  margin-top: -40px;
+  margin-left: 5px;
+  background-color: #E0E0E0;
+  color: #FF4D4D;
+  padding: 4px;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.7;
+  right: 20px;
+  font-weight: bold;
+}
+
+.media-picker-wrap {
+  margin-bottom: 15px;
+}
+
+.sp-menu {
+  color: #FF1D00;
+}
+
+.enliven-theme-info {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: #fff;
+    max-width: 1000px;
+}
+
+h1.enliven-info-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+    color: #353535;
+}
+
+.enliven-info-header {
+    margin-bottom: 50px;
+}
+
+.enliven-theme-description {
+    font-size: 14px;
+    margin-bottom: 50px;
+}
+
+.enliven-info-blocks {
+    clear: both;
+    overflow: hidden;
+}
+
+.enliven-info-block {
+    width: 30%;
+    height: 100px;
+    float: left;
+    text-align: center;
+    margin: 0 0 5% 5%;
+    background-color: #eee;
+}
+
+@media only screen and (max-width: 768px) {
+    .enliven-info-block {
+        padding-top: 5px;
+        width: 100%;
+        margin: 0 0 50px;
+        float: none;
+    }
+}
+
+.aw-n-margin {
+    margin-left: 0;
+}
+
+.enliven-info-block .dashicons {
+    display: block !important;
+    font-size: 30px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 30px;
+    height: 30px;
+}
+
+.enliven-info-block a {
+    color: #00a0d2;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.enliven-info-block a:hover {
+    color: #333;
+}
+
+.enliven-info-block .dashicons-book-alt {
+    font-size: 24px;
+}
+
+.enliven-info-block .dashicons-awards {
+    font-size: 32px;
+}
+
+.enliven-notice {
+    color: #fa7042;
+    font-size: 16px;
+}
